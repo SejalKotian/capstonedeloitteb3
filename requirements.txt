@@ -1,4 +1,7 @@
 streamlit 
+numpy
+pandas
+scipy
 scikit-learn
 azureml-sdk
 azureml-train-automl
