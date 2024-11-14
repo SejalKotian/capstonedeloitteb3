@@ -1,5 +1,6 @@
 streamlit
 pandas
+pickle
 azureml-sdk
 azureml-train-automl
 
